@@ -35,3 +35,11 @@ end
 function FootballPlayer:OnEvent(event)
 
 end
+
+function FootballPlayer:Shoot()
+
+end
+
+function FootballPlayer:Pass()
+
+end
