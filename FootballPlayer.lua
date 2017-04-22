@@ -39,3 +39,7 @@ end
 function FootballPlayer:Shoot()
 
 end
+
+function FootballPlayer:Pass()
+
+end
