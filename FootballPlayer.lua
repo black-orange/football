@@ -37,7 +37,7 @@ function FootballPlayer:OnEvent(event)
 end
 
 function FootballPlayer:Shoot()
-
+	print("shooting")
 end
 
 function FootballPlayer:Pass()
